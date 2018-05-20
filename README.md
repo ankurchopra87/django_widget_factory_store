@@ -6,7 +6,7 @@ Widget Factory Store is a Django project that implements a web store. The
 Front-End is written in ReactJS and the backend-end REST API and administration
 is written in Django/Python.
 
-The source for the Front-End is located at [here](https://github.com/ankurchopra87/react_widget_factory_store).  
+The source for the Front-End is located [here](https://github.com/ankurchopra87/react_widget_factory_store).  
 
 Installation
 -----------
