@@ -1,4 +1,4 @@
-=====
+
 Widget Factory Store
 =====
 
@@ -10,7 +10,7 @@ Installation
 -----------
 
 This is a Django application which uses Python 3. You will need to install
-Python3 before proceeding furthon
+Python3 before proceeding further
 
 Python 3 - https://www.python.org/download/releases/3.0/
 
