@@ -10,15 +10,18 @@ Installation
 -----------
 
 This is a Django application which uses Python 3. You will need to install
-Python3 before proceeding further
+Python3 before proceeding further.
 
 Python 3 - https://www.python.org/download/releases/3.0/
 
-in the project dir run the following commands. 
+In the project dir run the following commands. 
 
 pip install --user virtualenv
+
 virtualenv .env
+
 source .env/bin/activate
+
 pip install -r requirements.txt
 
 Start the App
@@ -43,6 +46,7 @@ Administration
 The administration console is located at http://127.0.0.1:8000/admin/
 
 user: admin
+
 pass: facetwealth
 
 Known Issues & Oppotunities for Improvement
