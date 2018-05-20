@@ -33,13 +33,6 @@ python manage.py runserver
 
 This will start ths development server at http://127.0.0.1:8000/
 
-Testing 
------------
-
-Use the following command to test the app
-
-python manage.py test
-
 Administration
 -----------
 
@@ -49,14 +42,20 @@ user: admin
 
 pass: facetwealth
 
-Known Issues & Oppotunities for Improvement
+Testing 
 -----------
 
-1) Front end doesnt cache cart items. The cart data is lost on refresh
-2) UI needs some CSS work.
-3) Cart doesn't add to quantity when a new sku is added. It adds it as a new item. 
-4) Order confirmation page is not styled.
-5) The Front-end and back-end interfaces are de-coupled.
-6) Search hits the backend on every change.
-7) Admin pages can be refined a lot more. 
-many more ...
+Use the following command to test the app
+
+python manage.py test
+
+Known Issues & Opportunities for Improvement
+-----------
+
+1) Front End doesn't cache cart items. The cart data is lost on refresh.
+2) Cart doesn't add to quantity when a new sku is added. It adds it as a new item. 
+3) The Front-end and back-end interfaces are de-coupled.
+4) Search hits the backend on every change.
+5) Admin pages can be refined a lot more. 
+6) Order confirmation page is not styled.
+7) The UI needs some CSS work.
