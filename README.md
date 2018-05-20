@@ -16,13 +16,13 @@ Python 3 - https://www.python.org/download/releases/3.0/
 
 In the project dir run the following commands. 
 
-pip install --user virtualenv
+pip3 install --user virtualenv
 
-virtualenv .env
+python3 -m virtualenv .env
 
 source .env/bin/activate
 
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 
 Start the App
 -----------
